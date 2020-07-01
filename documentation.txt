@@ -1,0 +1,16 @@
+TODO:
+1. set environment variable "SuperSecret" to your own secret.
+2. set environment variable "DBPassword" to your database password.
+3. configure database object in database/db.js file.
+4. npm install - to install all the dependencies.
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+MAIN DEPENDENCIES:
+1. express - a routing framework for nodejs.
+2. config  - project configuration setup for nodejs.
+3. mysql   - a node.js driver for mysql.
+4. jsonwebtoken - for secure authorization purposes.
+5. bcrypt  - password encryptor.
+6. joi     - for validation purposes.

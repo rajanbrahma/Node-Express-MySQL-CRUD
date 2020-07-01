@@ -1,0 +1,4 @@
+{
+    "SuperSecret":"exam_jwtSuperSecret",
+    "DBPassword":"dbpassword_mysql"
+}
